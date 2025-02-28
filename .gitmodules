@@ -1,0 +1,3 @@
+[submodule "apps/video-ui"]
+	path = apps/video-ui
+	url = https://github.com/THP-Lab/video-ui
