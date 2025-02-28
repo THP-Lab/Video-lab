@@ -1,5 +1,5 @@
 {
-  "name": "video-lab",
+  "name": "app",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "apps/video-lab",
   "projectType": "application",
